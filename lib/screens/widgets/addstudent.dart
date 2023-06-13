@@ -145,7 +145,7 @@ class _AddStudentState extends State<AddStudent> {
                   hintName: "Age",
                   keyboardtype: TextInputType.number),
               szdBox,
-              textFieldName(
+              textFieldName(  
                   myController: numController,
                   hintName: "Number",
                   keyboardtype: TextInputType.number),
