@@ -150,7 +150,7 @@ class _AddStudentState extends State<AddStudent> {
                   hintName: "Number",
                   keyboardtype: TextInputType.number),
               szdBox,
-              textFieldName(myController: divController, hintName: "Division"),
+              textFieldName(myController: divController, hintName: "Course"),
               szdBox,
               elavatedbtn(
                   myIcon: const Icon(Icons.person_add_alt_outlined),

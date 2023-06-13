@@ -158,7 +158,7 @@ class _EditProfileState extends State<EditProfile> {
               szdBox,
               textFieldName(myController: _numController, hintName: 'number'),
               szdBox,
-              textFieldName(myController: _divController, hintName: 'division'),
+              textFieldName(myController: _divController, hintName: 'Course'),
               szdBox,
               elavatedbtn(),
             ]),
